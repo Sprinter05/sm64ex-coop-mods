@@ -1,5 +1,5 @@
 -- name: Spectator
--- description: SPECTATOR FOR HOST:\n\nChange users with DPAD LEFT\nand DPAD RIGHT\n\nMade by Sprinter#0669\n\nv. 1.1
+-- description: SPECTATOR FOR HOST:\n\nChange users with DPAD LEFT\nand DPAD RIGHT\nToggle HUD with DPAD UP\nToggle Free Camera with DPAD DOWN\n\nMade by Sprinter#0669\n\nv. 1.2
 
 E_MODEL_MARIO = smlua_model_util_get_id("mario_geo")
 ACT_MY_DEBUG_FREE_MOVE = allocate_mario_action(ACT_GROUP_CUTSCENE)
